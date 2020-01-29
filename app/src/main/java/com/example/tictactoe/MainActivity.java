@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
           else{
               if(boxcounter == 10){
-                  Toast.makeText(this, "Draw Vai", Toast.LENGTH_SHORT).show();
+                  Toast.makeText(this, "Draw Vai Draw", Toast.LENGTH_SHORT).show();
               }
           }
 
